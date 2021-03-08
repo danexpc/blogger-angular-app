@@ -1,0 +1,35 @@
+{
+  "name": "blogger-mean-app",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcrypt": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "jsonwebtoken": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danexpc/blogger-mean-app.git"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "angular",
+    "nodejs"
+  ],
+  "author": "Danylo Smahliuk <danylosmahliuk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danexpc/blogger-mean-app/issues"
+  },
+  "homepage": "https://github.com/danexpc/blogger-mean-app#readme"
+}
